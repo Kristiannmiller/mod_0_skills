@@ -17,6 +17,6 @@
 
 + newPosition (position = "Manager")
 
-+ clockIn (clockedIn = true)
++ clockIn (onDuty = true)
 
 + increaseHours (hoursPerWeek = 40)
