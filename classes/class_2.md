@@ -1,4 +1,4 @@
-##CLASS: Recipes
+##CLASS: Recipe
 
 **Attributes**
 
@@ -13,10 +13,10 @@
 
 **Methods**
 
-+ newTitle (titleOnMenu = "<Title>")
++ newTitle (changes the title that appears on the menu to a given name by changing the `titleOnMenu` attribute. titleOnMenu = "<Title>")
 
-+ increaseCalories (adds a given number to the caloriesPerServing integer. caloriesPerServing = + <calories>)
++ increaseCalories (adds a given number to the `caloriesPerServing` integer. caloriesPerServing = + <calories>)
 
-+ addSideChoice (uses .push method to add to the sideChoice array. sideChoice = ["<New side here>"])
++ addSideChoice (uses the .push method to add to the `sideChoice` array. sideChoice = ["<New side here>"])
 
-+ makeYearRound (changes is Seasonal boolean to false. isSeasonal = false)
++ makeYearRound (changes `isSeasonal` boolean to false. isSeasonal = false)
