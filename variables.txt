@@ -1,0 +1,9 @@
+1. var food = "pizza"
+2. var is_delicious = true
+3. var food = "tacos"
+4. var num2 = 365
+5. var num7 = 200
+6. var quotient = (num7/num2)
+7. var songs = ["Hound Dog", "Watermelon Sugar", "Yesterday"]
+8. songs.shift()
+9. food.length
