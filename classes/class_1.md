@@ -13,10 +13,10 @@
 
 **Methods**
 
-+ newName (name = "<Name>")
++ newName (changes the name of the person on staff by changing the `name` attribute. name = "<Name>")
 
-+ newPosition (position = "<Position>")
++ newPosition (changes the position of the person on staff by changing the `position` attribute. position = "<Position>")
 
-+ clockIn (clockedIn = true)
++ clockIn (changes the `onDuty` attribute to true. onDuty = true)
 
-+ increaseHours (hoursPerWeek = + <hours>)
++ addWeeklyHours (increases the hours per week by adding a given value to the `hoursPerWeek` attribute. hoursPerWeek = + <hours>)
