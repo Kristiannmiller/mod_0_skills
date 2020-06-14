@@ -6,17 +6,17 @@
 
 + caloriesPerServing = 1500
 
-+ sideChoice = ["Green beans", "Bread roll"]
++ sideChoices = ["Green beans", "Bread roll"]
 
 + isSeasonal = true
 
 
 **Methods**
 
-+ newTitle (titleOnMenu = "Classic Chicken Parmesan")
++ changeTitle (titleOnMenu = "Classic Chicken Parmesan")
 
 + increaseCalories (caloriesPerServing = 2000)
 
-+ addSideChoice (sideChoice = ["Green beans", "Bread roll", "Salad"])
++ addSideChoices (sideChoices = ["Green beans", "Bread roll", "Salad"])
 
 + makeYearRound (isSeasonal = false)

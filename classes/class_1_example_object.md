@@ -4,19 +4,19 @@
 
 + name = "Monty"
 
-+ position = "Waitor"
++ position = "Waiter"
 
-+ onDuty = false
++ isOnDuty = false
 
 + hoursPerWeek = 30
 
 
 **Methods**
 
-+ newName (name = "Montgomery")
++ changeName (name = "Montgomery")
 
-+ newPosition (position = "Manager")
++ changePosition (position = "Manager")
 
-+ clockIn (onDuty = true)
++ clockIn (isOnDuty = true)
 
-+ increaseHours (hoursPerWeek = 40)
++ addWeeklyHours (hoursPerWeek = 40)
